@@ -1,0 +1,4 @@
+{
+  "profiles_dir" : "$HOME/nas_home/file_store/firefox"
+  "profiles" : ["fschlegelone", "cratos"],
+}
